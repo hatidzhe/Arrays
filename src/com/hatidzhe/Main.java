@@ -2,7 +2,8 @@ package com.hatidzhe;
 
 public class Main {
 
-	// a comment
+    // a comment
+    // another comment
 
     public static void main(String[] args) {
         int[] primes = {1, 2, 3, 4, 5};
